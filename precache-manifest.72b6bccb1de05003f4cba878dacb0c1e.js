@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1864efac7019bb00b8c84ff705d8fb36",
+    "revision": "e6a0287481df78a1877dde5fbb0b2fed",
     "url": "/robot_friend/index.html"
   },
   {
-    "revision": "abcf402c9619777cd68e",
+    "revision": "60523dabb791fc68cf8d",
     "url": "/robot_friend/static/css/2.3c03f26f.chunk.css"
   },
   {
-    "revision": "f4485c6231fe91661135",
+    "revision": "ca2a44eb2e1986efb237",
     "url": "/robot_friend/static/css/main.d822f7dd.chunk.css"
   },
   {
-    "revision": "abcf402c9619777cd68e",
-    "url": "/robot_friend/static/js/2.cab51068.chunk.js"
+    "revision": "60523dabb791fc68cf8d",
+    "url": "/robot_friend/static/js/2.839f4ecd.chunk.js"
   },
   {
-    "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/robot_friend/static/js/2.cab51068.chunk.js.LICENSE.txt"
+    "revision": "c64c486544348f10a6d6c716950bc223",
+    "url": "/robot_friend/static/js/2.839f4ecd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f4485c6231fe91661135",
-    "url": "/robot_friend/static/js/main.8667cc67.chunk.js"
+    "revision": "ca2a44eb2e1986efb237",
+    "url": "/robot_friend/static/js/main.f2b57c99.chunk.js"
   },
   {
     "revision": "6089e4fed4b2afcaf675",
